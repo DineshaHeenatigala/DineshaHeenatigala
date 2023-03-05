@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630430682 source:d:\new folder (2)\gadse202f003\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
